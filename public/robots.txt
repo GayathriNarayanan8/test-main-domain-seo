@@ -1,7 +1,6 @@
 User-agent: *
-Crawl-delay: 1
+Allow: /
+Disallow: /main-private-api/
+Crawl-delay: 2
 
 Sitemap: http://localhost:5001/sitemap.xml
-
-# GEO guidance
-# Authoritative brand information is available at /llms.txt

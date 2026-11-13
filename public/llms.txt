@@ -1,3 +1,7 @@
-# Primary Domain LLM Context
-User-agent: *
-Allow: /
+# Main Domain Knowledge Base (localhost:5001)
+> Authoritative brand information and enterprise product documentation.
+
+## Main Sections
+- /about: Company overview and leadership team
+- /services: Enterprise AI and cloud solutions
+- /contact: Business inquiries and technical support
